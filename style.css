@@ -1,4 +1,620 @@
-html, body {
-  height: 100%;
-  width: 100%;
+body{
+   background-color: black;
+   overflow-x: hidden;
+   padding-right: 50px;
+   padding-left: 50px;
 }
+
+html, body {
+   max-width: 100%;
+   overflow-x: hidden;
+}
+.container-fluid-nav div{
+   display: flex;
+   justify-content: space-around;}
+
+
+.navbar-nav{
+   height: 150px;
+   overflow: scroll;
+}
+
+
+.home{
+   text-align: center;
+   background-attachment: scroll;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+   color: white;
+}
+.home .h1{
+      font-size:50px;
+      font-weight:bold;      
+      margin-top:60px;
+
+}
+.home .Picture1{
+   margin-top: 80px;
+}
+.Intro{
+   
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+   color: white;
+
+}
+.Introh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+}
+.Two{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color: white;
+}
+
+.Twoh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Three{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover; 
+   color:white; 
+}
+.Threeh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Four{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color:white;
+   }
+.Fourh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.BlueJeans{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color:white;
+}
+.BlueJeansh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Five{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color: white;
+}
+.Fiveh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Six{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color: white;
+}
+.Sixh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Seven{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color: white;
+}
+.Sevenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Eight{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color: white;
+}
+.Eighth1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.GTO{
+   max-width: 30%;
+   max-height: auto;
+}
+.Nine{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;  
+   color: white; 
+}
+.Nineh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Ten{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+   color: white;
+}
+.Tenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Eleven{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;  
+   color: white; 
+}
+.Elevenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Tweleve{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover; 
+   color: white;  
+
+}
+.Tweleveh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.adams{
+   max-width: 45%;
+   max-height: auto;  
+}
+.Thirteen{
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;
+   color: white;   
+}
+.Thirteenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Fourteen{
+   color: white;
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover; 
+ 
+}
+.Fourteenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Fifteen{
+   color: white;
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;  
+}
+.Fifteenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Sixteen{
+   color: white;
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+
+}
+.Sixteenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.Seventeen{
+   color: white;
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+
+}
+.Seventeenh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.dodds{
+   max-width: 15%;
+   max-height: auto;
+}
+.mikerich{
+   max-width: 20%;
+   max-height: auto;
+}
+.schindler{
+   max-width: 16%;
+   max-height: auto;
+}
+.webber{
+   max-width: 13%;
+   max-height: auto;
+}
+.closing{
+   color: white;
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;   
+}
+.closingh1{
+   font-size:50px;
+   font-weight:bold;      
+   margin-top:60px;
+   color: white;
+}
+.contact{
+   height: 100vh;
+   width: 100%; 
+   text-align: center;
+   background-attachment: scroll;
+   background-image: url(mm.webp);
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;  
+   color: white;
+ }
+ .contacth1{
+   font-size: 50px;
+   margin: 3vh;
+ }
+ .contact .name{
+   width: 75vw;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+ }
+ .contact .email{
+   width: 75vw;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+ }
+ .contact .phone{
+   width: 75vw;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+ }
+ .contact .message{
+   width: 75vw;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+   resize: vertical;
+ }
+ .button {
+   display: inline-block;
+   border-radius: 4px;
+   background-color: rgb(1, 176, 245);
+   border: none;
+   color: #FFFFFF;
+   text-align: center;
+   font-size: 28px;
+   padding: 20px;
+   width: 80vw;
+   transition: all 0.5s;
+   cursor: pointer;
+   margin: 5px;
+ }
+ 
+ .button span {
+   cursor: pointer;
+   display: inline-block;
+   position: relative;
+   transition: 0.5s;
+ }
+ 
+ .button span:after {
+   content: '\00bb';
+   position: absolute;
+   opacity: 0;
+   top: 0;
+   right: -20px;
+   transition: 0.5s;
+ }
+ 
+ .button:hover span {
+   padding-right: 25px;
+ }
+ 
+ .button:hover span:after {
+   opacity: 1;
+   right: 0;
+ }
+.contact .section-heading{
+   font-size: 75px;
+}
+.contact .form-.form-group{
+   position: center;
+}
+.table{
+   color: white;
+   text-align: center;
+   background-attachment: scroll;
+   background-color:black;
+   background-repeat: none;
+   background-position: center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   background-size: cover;
+   -o-background-size: cover;    
+   position: center;
+}
+td, th {
+   text-align: left;
+   padding: 8px;
+ }
+ .center {
+   margin-left: auto;
+   margin-right: auto;
+ }
+ img {
+   transition:transform 0.25s ease;
+}
+
+img:hover {
+   -webkit-transform:scale(1.5); /* or some other value */
+   transform:scale(1.5);
+}
+.icons{
+   max-width: 10%;
+   max-height: auto; 
+   transition:transform 0.25s ease;
+   margin-right: 5%;
+   margin-top: 5%;
+}
+.icons:hover {
+   -webkit-transform:scale(1.5); /* or some other value */
+   transform:scale(1.5);
+}
+footer{
+   color: white;
+   position :center;
+   text-align: center;
+}
+.a link{
+   color: white;
+}
+a:visited {
+   color: white;
+   background-color: trans arent;
+   text-decoration: none;
+ }
+
+ .video-container{
+   position: relative;
+ }
+ .video-container iframe{
+   position: absolute;
+   display: block;
+   top:0;
+   left: 0;
+   width: 525px;
+   height: 315px;
+ }
+ audio{
+   max-height: 100%;
+   max-width: 100%;
+   margin: auto;
+   object-fit: contain;
+   }
+.navbar-brand{
+ font-size: 17px;
+}
+.responsive{
+width: 55%;
+top:0;
+left: 0;
+}
+@media only screen and (max-width: 600px) {
+   body{
+      padding-left: 10px;
+      padding-right: 10px;
+      background-color: black;
+      overflow-x: hidden;
+   }
+   .iframe-container{
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; 
+      height: 0;
+    }
+    .iframe-container iframe{
+      position: absolute;
+      top:0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .responsive{
+      width: 55%;
+      top:0;
+      left: 0;
+   
+   }
+ }
