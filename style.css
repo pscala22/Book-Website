@@ -18,6 +18,9 @@ html, body {
    height: 150px;
    overflow: scroll;
 }
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+   background-color: #686A6C;
+}
 
 
 .home{
@@ -207,6 +210,11 @@ html, body {
 .GTO{
    max-width: 30%;
    max-height: auto;
+}
+.bottom{
+   max-width: 50%;
+   max-height: auto;
+   text-align: center;
 }
 .Nine{
    text-align: center;
@@ -526,7 +534,7 @@ html, body {
    position: center;
 }
 td, th {
-   text-align: left;
+   text-align: center;
    padding: 8px;
  }
  .center {
