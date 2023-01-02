@@ -551,15 +551,11 @@ td, th {
 }
 
 img:hover {
-   -webkit-transform:scale(1.5); /* or some other value */
-   transform:scale(1.5);
+   -webkit-transform:scale(1.05); /* or some other value */
+   transform:scale(1.05);
 }
 .icons{
-   max-width: 10%;
-   max-height: auto; 
    transition:transform 0.25s ease;
-   margin-right: 5%;
-   margin-top: 5%;
 }
 .icons:hover {
    -webkit-transform:scale(1.5); /* or some other value */
