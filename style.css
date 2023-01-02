@@ -216,6 +216,11 @@ html, body {
    max-height: auto;
    text-align: center;
 }
+.bottom1{
+   max-width: 90%;
+   max-height: auto;
+   text-align: center;
+}
 .Nine{
    text-align: center;
    background-attachment: scroll;
