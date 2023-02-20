@@ -407,6 +407,10 @@ html, body {
    max-width: 13%;
    max-height: auto;
 }
+.songImg{
+      max-width: 35%;
+      max-height: auto;
+}
 .closing{
    color: white;
    text-align: center;
